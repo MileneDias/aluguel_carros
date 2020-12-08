@@ -1,0 +1,98 @@
+
+const ListaCarros = [
+
+    {
+        id: 1,
+        marca: "VolksWagen",
+        modelo: "Gol City (Trend)/Titan 1.0 T. Flex 8V 4p",
+        ano: 2010,
+        combustivel: "Gasolina",
+        imagem: '../css/img/gol2012.jpg',
+        diaria: 40,
+    },
+    {
+        id: 2,
+        marca: "VolksWagen",
+        modelo: "AMAROK CD2.0 16V/S CD2.0 16V TDI 4x2 Die",
+        ano: 2012,
+        combustivel: "Diesel",
+        imagem: '../css/img/amarok.jpg',
+        diaria: 70,
+    },
+
+    {
+        id: 3,
+        marca: "VolksWagen",
+        modelo: "Golf 2.0/ 2.0 Mi Flex Aut/Tiptronic",
+        ano: 2014,
+        combustivel: "Gasolina",
+        imagem: '../css/img/golf.jpeg',
+        diaria: 53,
+    },
+    {
+        id: 4,
+        marca: "Fiat",
+        modelo: "Palio 1.0 ECONOMY Fire Flex 8V 2p",
+        ano: 2011,
+        combustivel: "Gasolina",
+        imagem: '../css/img/palio.jpg',
+        diaria: 48,
+    },
+    {
+        id: 5,
+        marca: "Fiat",
+        modelo: "Grand Siena ESSENCE 1.6 Flex 16V",
+        ano: 2015,
+        combustivel: "Gasolina",
+        imagem: '../css/img/grandsiena.jpg',
+        diaria: 47,
+    },
+    {
+        id: 6,
+        marca: "Fiat",
+        modelo: "Toro Freedom 2.0 16V 4x4 Diesel Aut",
+        ano: 2019,
+        combustivel: "Diesel",
+        imagem: '../css/img/toro.jpg',
+        diaria: 75,
+    },
+    {
+        id: 7,
+        marca: "Chevrolet",
+        modelo: "Celta Life/ LS 1.0 MPFI 8V FlexPower 5p",
+        ano: 2012,
+        combustivel: "Gasolina",
+        imagem: '../css/img/celta.jpg',
+        diaria: 39,
+    },
+    {
+        id: 8,
+        marca: "Chevrolet",
+        modelo: "Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+        ano: 2009,
+        combustivel: "Gasolina",
+        imagem: '../css/img/astra.jpg',
+        diaria: 46,
+    },
+    {
+        id: 9,
+        marca: "Chevrolet",
+        modelo: "COBALT LS 1.4 8V FlexPower 4p",
+        ano: 2015,
+        combustivel: "Gasolina",
+        imagem: '../css/img/cobalt.jpg',
+        diaria: 56,
+    },
+    {
+        id: 10,
+        marca: "Chevrolet",
+        modelo: "Corsa Sed Class.Life 1.0/1.0 FlexPower",
+        ano: 2005,
+        combustivel: "Alcool",
+        imagem: '../css/img/corsa.jpg',
+        diaria: 38,
+    },
+
+];
+
+export { ListaCarros };

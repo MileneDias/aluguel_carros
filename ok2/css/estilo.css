@@ -1,0 +1,159 @@
+body {
+    
+    background-image: url("./img/viagem.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+    
+    
+   
+
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+
+
+
+#centro-da-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  
+}
+
+
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-self: center;
+    margin-top: 150px;
+
+
+    
+    
+}
+
+form {
+    width: 100%;
+
+
+}
+
+#botao {
+    width: 300px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+
+
+
+
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+#logout {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    font-family: 'Lobster', cursive;
+    width: 1000px;
+
+}
+
+#conteudo {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#centroConteudo {
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 24px;
+    margin: 20px;
+
+}
+
+#centroConteudo h1{
+    color: white;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+#listaDeCarros {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 450px;
+    text-align: center;
+    
+   
+}
+
+
+
+#listaDeCarros button {
+    font-size: 20px;
+    
+}
+
+#listaDeCarros li:hover {
+    background-color: rgba(0, 0, 0, 0.76);
+    
+}
+
+#cardCarro {
+   
+    
+    width: 600px;
+    margin: 20px auto 20px auto;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+ 
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    font-size: 27px;
+    color: white;
+}
+
+
+
+
+
+
+
+
